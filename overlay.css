@@ -79,6 +79,7 @@ body{
     outline: none;
     text-transform: uppercase;
     letter-spacing: 2px;
+    border:#34B3A0;
 }
 
 /* Media Query */
