@@ -80,6 +80,7 @@ body{
     text-transform: uppercase;
     letter-spacing: 2px;
     border:#34B3A0;
+    cursor: pointer;
 }
 
 /* Media Query */
